@@ -1,6 +1,6 @@
 <div class="panel panel-default">
   <div class="panel-body">
-    Panel content
+    Footer .................
   </div>
   <div class="panel-footer">Panel footer</div>
 </div>

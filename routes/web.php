@@ -18,4 +18,4 @@ use Illuminate\Support\Facades\Route;
 // });
 
 
-Route::view("/","login");
+Route::view("/user","login");
